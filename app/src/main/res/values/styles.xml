@@ -11,5 +11,4 @@
 
     <style name="ppp" parent="android:Theme.Holo.Light">  <!-- 这个可以显示actionBar(可以放在想要的显示的activity中) -->
     </style>
-
 </resources>
